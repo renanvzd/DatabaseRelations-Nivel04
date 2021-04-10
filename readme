@@ -1,0 +1,8 @@
+Tabela: Clientes
+
+Tabela: Produtos
+
+Tabela: Pedidos
+
+Tabela: PedidosProdutos (id, id_produto, quantidade, valor)
+  -> Para guardar o valor do produto no momento da compra, pois pode mudar de preço depois de já comprado.
